@@ -1,0 +1,1 @@
+const suggestion = ["i love javascript",'hello',`hi`,`i love css`];
